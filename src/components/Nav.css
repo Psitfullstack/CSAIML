@@ -1,5 +1,6 @@
 ul{
     display: flex;
+    margin-bottom: 0px;
 }
 li{
     margin: 20px;
@@ -11,4 +12,15 @@ li a{
 
 .container1{
     background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+ 
 }
+
+.btn1{
+    background-color:blueviolet;
+    color: white;
+}
+

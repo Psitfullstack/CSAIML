@@ -11,7 +11,7 @@ function App() {
     
      <Nav/>
      <Home/>
-     <Funcomp {...obj1}  />
+     {/* <Funcomp {...obj1}  /> */}
     
     </>
   );
